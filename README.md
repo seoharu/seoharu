@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+
+![seoharu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoharu&show_icons=true&theme=radical)
