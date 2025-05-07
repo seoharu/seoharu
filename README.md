@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seoharu&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seoharu"
+  width="600"
+  height="300"
+/>
+</a>
+<img
+  src="https://render.gitanimals.org/farms/seoharu"
   width="630"
   height="420"
 />
